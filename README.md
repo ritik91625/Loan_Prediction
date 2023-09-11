@@ -1,1 +1,1 @@
-# Loan_Prediction
+Loan eligibility prediction using a Decision Tree Classifier is a machine learning approach designed to assess whether an individual or entity is eligible to receive a loan based on various factors and criteria.
